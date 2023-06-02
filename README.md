@@ -15,4 +15,4 @@ You're ready to go! Run any task by typing `npm run task` (where "task" is the n
 https://cruip.com/demos/solid/
 
 ## Changes Made
-https://github.com/DubyaDude/VRCMGTempLanding/compare/fbe40616a44ebaa1b72298f93efd5512608863da...master
+https://github.com/DubyaDude/vrcmg-web/compare/fbe40616a44ebaa1b72298f93efd5512608863da...master
